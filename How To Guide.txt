@@ -1,2 +1,6 @@
 Github (Pytube):
 https://github.com/nficano/pytube
+
+
+Error 403:
+https://github.com/nficano/pytube/issues/399#issuecomment-500664173
